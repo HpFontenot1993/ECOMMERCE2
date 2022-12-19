@@ -1,0 +1,85 @@
+body{
+    background-color: yellow;
+    color:black;
+    max-width: 100%;
+    min-width: 0;
+    padding:10px;
+    margin:5px;
+}
+header{
+    background-color: black;
+    color: yellow;
+   max-width: 100%;
+    min-width: 0;
+    padding:2px;
+    margin:0px;
+    
+
+}
+input{
+    height:25px;
+    width:130px;
+}
+
+button{
+    height:31px;
+    background-color: green;
+}
+    
+
+
+a{
+    color: greenyellow;
+    padding: 4px;
+    margin:10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+
+.one{
+background-color: rgb(159, 243, 120);
+border-width: 15px;
+border-color: black;
+border-style: double;
+max-width: 100%;
+min-width: 0;
+padding:10px;
+margin:5px;
+}
+
+.two{
+    background-color: rgb(159, 243, 120);
+    border-width: 15px;
+    border-color: black;
+    border-style: double;
+    max-width: 100%;
+    min-width: 0;
+    padding:10px;
+    margin:5px;
+    }
+
+
+    
+
+            .map{
+                max-width: 350px;
+                min-width:0;
+                align-content: center;
+            }
+
+            .home{
+                margin-left:15%;
+                background-position: fixed;
+                border-width: 10px;
+                border-color:black;
+                border-style: solid;
+
+            }
+            .mini{
+                max-width: 40px;
+                min-width:0;
+                margin-left:450px;
+                margin-top:5px;
+                padding:0;
+            }
+        

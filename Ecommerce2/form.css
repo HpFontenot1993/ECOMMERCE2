@@ -1,0 +1,26 @@
+body{
+    background-color: yellow;
+    color:black;
+    max-width: 100%;
+    min-width: 0;
+    padding:10px;
+    margin:5px;
+}
+header{
+    background-color: black;
+    color: yellow;
+   max-width: 100%;
+    min-width: 0;
+    padding:2px;
+    margin:0px;
+    
+
+}
+input{
+    height:25px;
+}
+
+button{
+    height:31px;
+    background-color: green;
+}

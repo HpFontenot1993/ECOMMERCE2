@@ -1,0 +1,46 @@
+body{
+    background-color: yellow;
+    color:black;
+    max-width: 100%;
+    min-width: 0;
+    padding:10px;
+    margin:5px;
+}
+header{
+    background-color: black;
+    color: yellow;
+   max-width: 100%;
+    min-width: 0;
+    padding:2px;
+    margin:0px;
+    
+
+}
+input{
+    height:25px;
+    width:150px;
+}
+
+button{
+    height:31px;
+    background-color: green;
+}
+    img{
+        max-width:350;
+        min-width:0;
+    }
+
+
+
+
+.categories{
+    background-color: rgb(159, 243, 120);
+    color:black;
+    border-width: 15px;
+    border-color: black;
+    border-style: double;
+    max-width: 100%;
+    min-width: 0;
+    padding:10px;
+    margin:5px;
+    }
